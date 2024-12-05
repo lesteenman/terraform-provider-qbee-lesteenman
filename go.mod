@@ -1,6 +1,8 @@
-module github.com/qbee-io/terraform-provider-qbee
+module github.com/lesteenman/terraform-provider-qbee-lesteenman
 
 go 1.22.7
+
+toolchain go1.23.3
 
 require (
 	github.com/hashicorp/terraform-plugin-docs v0.20.1
